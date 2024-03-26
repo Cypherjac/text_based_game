@@ -9,13 +9,13 @@
 #### **Room 2**: Grammar quizzes
 1. Guess the verb
 
-#### **Room 3**:
+#### **Room 3**: Science Trivia
 
 
-#### **Room 4**:
+#### **Room 4**: Music Trivia
 
 
-#### **Room 5**:
+#### **Room 5**: Unpredictable
 
 
 

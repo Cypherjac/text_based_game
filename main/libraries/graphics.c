@@ -14,11 +14,11 @@ struct Options
 // TODO:
 // Text graphics initializer
 int text_graphic(){
-    printf("\033[31;1;4mHello\033[0m");
-    printf("\033[31;3;4mHello\033[0m");
-    printf("\033[31;5mHello\033[0m");
-    printf("\033[31;6mHello\033[0m");
-    printf("\033[31;51;4mHello\033[0m");
+    printf("\033[31;1;4mHello\033[0m\n");
+    printf("\033[31;3;4mHello\033[0m\n");
+    printf("\033[31;5mHello\033[0m\n");
+    printf("\033[31;6mHello\033[0m\n");
+    printf("\033[31;51;4mHello\033[0m\n");
 
     return 0;
 }

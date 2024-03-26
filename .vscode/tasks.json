@@ -1,0 +1,27 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "cppbuild",
+			"label": "C/C++: gcc.exe build active file",
+			"command": "C:/msys64/ucrt64/bin/gcc.exe",
+			"args": [
+				"-fdiagnostics-color=always",
+				"-g",
+				"${file}",
+				"-o",
+				"${fileDirname}\\${fileBasenameNoExtension}.exe",
+				"${fileDirname}\\libraries\\rooms.c",
+				"${fileDirname}\\libraries\\get_line.c"
+			],
+			"options": {
+				"cwd": "C:/msys64/ucrt64/bin"
+			},
+			"problemMatcher": [
+				"$gcc"
+			],
+			"group": "build",
+			"detail": "compiler: C:/msys64/ucrt64/bin/gcc.exe"
+		}
+	]
+}
