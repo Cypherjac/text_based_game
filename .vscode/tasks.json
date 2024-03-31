@@ -12,10 +12,10 @@
 				"-o",
 				"${fileDirname}\\${fileBasenameNoExtension}.exe",
 				"${fileDirname}\\libraries\\rooms.c",
-				"${fileDirname}\\libraries\\get_line.c"
+				"${fileDirname}\\libraries\\get_line.c",
 			],
 			"options": {
-				"cwd": "C:/msys64/ucrt64/bin"
+				"cwd": "${fileDirname}"
 			},
 			"problemMatcher": [
 				"$gcc"

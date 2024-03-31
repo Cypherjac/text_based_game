@@ -1,0 +1,1 @@
+extern char* TEXT_FORMAT(char* text, char* color);

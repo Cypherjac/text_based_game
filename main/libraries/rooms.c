@@ -23,7 +23,7 @@ static unsigned int player_location = 0;
 
 void check_current_room(const char *noun, int location){
     if(noun != NULL && strcmp(noun, "room") == 0){
-        printf("You are in %s.\n", rooms[location].description);
+        printf("You are in %s.\n", rooms[location-1].description);
     }
     else {
         printf("Command not identified!\n");
