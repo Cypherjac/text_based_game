@@ -12,8 +12,8 @@ struct Room
 rooms[] = {
     {"number_puzzles", "a room filled with number puzzles"},
     {"grammar_quizzes", "a room filled with grammar quizzes"},
-    {"science_trivia", "a room filled with science questions"},
     {"music_trivia", "a room filled with music questions"},
+    {"science_trivia", "a room filled with science questions"},
     {"unpredictable", "a room filled with unpredictable questions. Could be hard or easy, Good luck!"},
 };
 
@@ -24,6 +24,16 @@ static unsigned int player_location = 0;
 void check_current_room(const char *noun, int location){
     if(noun != NULL && strcmp(noun, "room") == 0){
         printf("You are in %s.\n", rooms[location-1].description);
+    }
+    else {
+        printf("Command not identified!\n");
+    }
+}
+
+void check_portal_room(const char *noun, int location){
+    if(noun != NULL && strcmp(noun, "room") == 0){
+        printf("HOLD ON TIGHT!\n");
+        printf("You will be transported to %s.\n", rooms[location-1].description);
     }
     else {
         printf("Command not identified!\n");
@@ -46,11 +56,4 @@ void switch_rooms(const char *noun){
         }
     }
     printf("Room not available.\n");
-}
-
-struct Room fetch_room(char room){
-    struct Room fetch_room_details;
-    fetch_room_details.name =  "Grade is not within range!";
-    fetch_room_details.description = "CHECK ENTERED GRADE";
-    return fetch_room_details;
 }

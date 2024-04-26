@@ -1,15 +1,27 @@
-question1 in unpredictable; a b c d a 10 2
-question2 was here; aa bb cc dd dd 20 3
-question3 and here and there; aaa bbb ccc ddd ccc 30 1
-question1 is this one; a b c d a 10 2
-question2 was here; aa bb cc dd dd 20 3
-question3 and here and there; aaa bbb ccc ddd ccc 30 1
-question1 is this one; a b c d a 10 2
-question2 was here; aa bb cc dd dd 20 3
-question3 and here and there; aaa bbb ccc ddd ccc 30 1
-question1 is this one; a b c d a 10 2
-question2 was here; aa bb cc dd dd 20 3
-question3 and here and there; aaa bbb ccc ddd ccc 30 1
-question1 is this one; a b c d a 10 2
-question2 was here; aa bb cc dd dd 20 3
-question3 and here and there; aaa bbb ccc ddd ccc 30 1
+Which of these words means 'idle spectator'?; Gongoozler; Gossypiboma; Jentacular; Meupareunia; A; 10 1 1
+What is the currency of Poland?; Euro; Krone; Ruble; Złoty; D; 10 1 1
+Linus Pauling, one of the only winners of multiple Nobel Prizes, earned his Nobel Prizes in Chemistry and what?; Peace; Physics; Economics; Medicine; A; 10 1 1
+Scotch whisky and Drambuie make up which cocktail? Screwdriver; Rusty Bucket; Manhattan; None of the above; D; 12 1 1
+What is the alphanumeric representation of the imaginary number?; e; i; x; n; I; 10 1 0
+What is the first Mersenne prime exponent over 1000? 2203; 1279; 1009; 1069; 1279; 12 1 0
+What does a milliner make and sell?; Belts; Shirts; Shoes; Hats; D; 14 2 1
+In a 1994 CBS interview, Microsoft co-founder Bill Gates performed what unusual trick on camera?; Jumping backwards over a desk; Standing on his head; Jumping over an office chair; Typing on a keyboard during a handstand; C; 15 2 1
+This field is sometimes known as 'The Dismal Science'; Economics; Philosophy; Politics; Physics; A; 14 2 1
+What shape does sin(x) or cos(x) make on a graph? Parabola; Waves; Straight Line; Zig-Zags; B; 14 2 1
+Which of the following dice is not a platonic solid?; 10-sided die; 12-sided die; 20-sided die; 8-sided die; A; 15 2 1
+What type of function is (x^2)+2x+1?; Linear; Rational; Quadratic; Trigonometric; C; 15 2 1
+What is the romanized Japanese word for 'university'?; Toshokan; Jimusho; Daigaku; Shokudou; C; 18 3 1
+When was Nintendo founded?; October 19th, 1891; September 23rd, 1889; March 4th, 1887; December 27th, 1894; B; 18 3 1
+What alcoholic drink is mainly made from juniper berries?; Gin; Rum; Vodka; Tequila; A; 18 3 1
+On average, Americans consume 100 pounds of what per second? Chocolate; Potatoes; Donuts; Cocaine; A; 18 3 1
+In the Morse code, which letter is indicated by 3 dots?; S; O; A; C; S; 25 4 0
+What is a Burgee?; A rope; A window; A type of food; A flag; C; 25 4 1
+In ancient Greece, if your job were a 'hippeus' which of these would you own?; Guitar; Weave; Horse; Boat; C; 25 4 1
+When was Hubba Bubba first introduced?; 1979; 1984; 1972; 1980; A; 25 4 1
+What Greek letter is used to signify summation?; Delta; Sigma; Alhpa; Omega; B; 23 4 1
+What are the first 10 digits of the number Pi? 3.141592653; 3.141693039; 3.124237741; 3.258129731; 3.141592653; 25 4 1
+Which language is NOT Indo-European?; Russian; Hungarian; Greek; Latvian; B; 30 5 1
+The architect known as Le Corbusier was an important figure in what style of architecture?; Modernism; Neoclassical; Baroque; Gothic Revival; A; 30 5 1
+The Fields Medal, one of the most sought after awards in mathematics, is awarded every how many years?; 3; 4; 5; 6; 4; 30 5 0
+How many books are in Euclid's Elements of Geometry?; 8; 10; 13; 17; 13; 30 5 0
+To the nearest whole number, how many radians are in a whole circle?; 3; 4; 5; 6; 6; 30 5 0

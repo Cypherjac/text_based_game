@@ -1,15 +1,16 @@
-question1 in music trivia; a b c d a 10 2
-question2 was here; aa bb cc dd dd 20 3
-question3 and here and there; aaa bbb ccc ddd ccc 30 1
-question1 is this one; a b c d a 10 2
-question2 was here; aa bb cc dd dd 20 3
-question3 and here and there; aaa bbb ccc ddd ccc 30 1
-question1 is this one; a b c d a 10 2
-question2 was here; aa bb cc dd dd 20 3
-question3 and here and there; aaa bbb ccc ddd ccc 30 1
-question1 is this one; a b c d a 10 2
-question2 was here; aa bb cc dd dd 20 3
-question3 and here and there; aaa bbb ccc ddd ccc 30 1
-question1 is this one; a b c d a 10 2
-question2 was here; aa bb cc dd dd 20 3
-question3 and here and there; aaa bbb ccc ddd ccc 30 1
+What is the name of the musical symbol that indicates a sharp note?; Flat; Natural; Sharp; Clef; SHARP; 10 1 0
+Which key signature has one sharp only?; C major; G major; F major; D major; B; 10 1 1
+What is the relative minor key of E major?; A minor; B minor; C minor; F# minor; A; 10 1 1
+What is the term for a gradual increase in volume in music?; Crescendo; Decrescendo; Forte; Piano; A; 12 2 1
+Which note is enharmonically equivalent to F#?; Gb; A#; Bb; C#; A; 12 2 1
+What is the time signature of a waltz?; 2/4; 3/4; 4/4; 6/8; B; 12 2 1
+What is the interval between C and E?; Perfect fifth; Perfect fourth; Minor third; Major third; D; 15 3 1
+Which composer is known for his 'Moonlight Sonata'?; Mozart; Beethoven; Bach; Chopin; B; 15 3 1
+What is the Italian term for 'very fast'?; Allegro; Adagio; Presto; Andante; C; 15 3 1
+Which musical term instructs a musician to play at a slow pace? Allegro; Presto; Adagio; Vivace; C; 15 3 1
+What is the relative major key of F# minor?; A major; B major; C# major; D major; C; 20 4 1
+Which instrument family does the flute belong to?; Brass; Woodwind; Percussion; Strings; B; 20 4 1
+What is the term for a sudden, strong accent in music?; Staccato; Legato; Fermata; Sforzando; 20 4 1
+What is the key signature of D# major?; 6 sharps; 6 flats; 7 sharps; 7 flats; C; 30 5 1
+Which composer wrote 'The Four Seasons'?; Vivaldi; Handel; Haydn; Schubert; A; 30 5 1
+What is the term for gradually slowing down the tempo in music?; Rubato; Ritardando; Accelerado; Fermata; B; 30 5 1

@@ -1,15 +1,15 @@
-What is next in the pattern? 2 4 6 8 _; a; b; c; d; a; 10 2
-question2 was here; aa; bb; cc; dd; dd; 20 3
-question3 and here and there; aaa bbb ccc ddd ccc 30 1
-question1 is this one; a b c d a 10 2
-question2 was here; aa bb cc dd dd 20 3
-question3 and here and there; aaa bbb ccc ddd ccc 30 1
-question1 is this one; a b c d a 10 2
-question2 was here; aa bb cc dd dd 20 3
-question3 and here and there; aaa bbb ccc ddd ccc 30 1
-question1 is this one; a b c d a 10 2
-question2 was here; aa bb cc dd dd 20 3
-question3 and here and there; aaa bbb ccc ddd ccc 30 1
-question1 is this one; a b c d a 10 2
-question2 was here; aa bb cc dd dd 20 3
-question3 and here and there; aaa bbb ccc ddd ccc 30 1
+What amount of bits commonly equals one byte?; 1; 2; 4; 8; 8; 5 1 0
+What does the computer software acronym JVM stand for?; Juice Vendor Machine; Java Visual Machine; Java Virtual Machine; Just Virtual Machine; C; 5 1 1
+What language does Node.js use?; Java; Javascript; Java Source; Joomla Source Code; B; 5 1 1
+HTML is what type of language?; Scripting Language; Markup Language; Macro Language; Programming Language; B; 8 2 1
+In computing, what does LAN stand for?; Long Antenna Node; Light Access Node; Land Address Navigation; Local Area Network; D; 8 2 1
+This mobile OS held the largest market share in 2012?; Nokia; IOS; Blackberry; Android; B; 8 2 1
+What does LTS stand for in the software market? Legit Taco Service; Ludicrous Transfer Speed; Ludicrous Turbo Speed; Long Term Support; D; 12 3 1
+In the programming language Java, which of these keywords would you put on a variable to make sure it doesn't get modified?; Final; Static; Public; Constant; A; 12 3 1
+What is the most preferred image format used for logos in the Wikimedia database?; .svg; .png; .jpeg; .gif; A; 12 3 1
+In computing, what does MIDI stand for?; Musical Interface of Digital Instruments; Modular Interface of Digital Instruments; Musical Instrument Digital Interface; Musical Instrument Data Interface; C; 18 4 1
+The C programming language was created by this American computer scientist?; al-Khwārizmī; Tim Berners Lee; Dennis Ritchie; Willis Ware; C; 18 4 1
+According to the International System of Units, how many bytes are in a kilobyte of RAM?; 500; 512; 1000; 1024; C; 18 4 1
+In any programming language, what is the most common way to iterate through an array?; for loops; while loops; do-while loops; statements; A; 20 5 1
+The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called; HD Graphics 500; HD Graphics 600; HD Graphics 700; HD Graphics 7000; A; 20 5 1
+The numbering system with a radix of 16 is more commonly referred to as; Binary; Duodecimal; Hexadecimal; Octal; C; 20 5 1

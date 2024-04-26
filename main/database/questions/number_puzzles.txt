@@ -1,25 +1,41 @@
-LEVEL 1: Find the missing number in the pattern: 2 3 5 8 _ 21; 0; 0; 0; 0; 13; 10 1
-LEVEL 1: Find the missing number in the pattern: 1 1 2 6 _ 120; 0; 0; 0; 0; 24; 10 1
-LEVEL 1: Find the missing number in the pattern: 1 10 11 100 _ 1010; 0; 0; 0; 0; 101; 10 1
-LEVEL 1: Find the missing number in the pattern: 1 3 6 _ 15; 0; 0; 0; 0; 10; 10 1
-LEVEL 1: Find the missing number in the pattern: 2 6 12 _ 30; 0; 0; 0; 0; 20; 10 1
-LEVEL 2: missing number in the pattern: 2 3 5 8 _ 21; 0; 0; 0; 0; 13; 15 2
-LEVEL 2: missing number in the pattern: 1 1 2 6 _ 120; 0; 0; 0; 0; 24; 15 2
-LEVEL 2: missing number in the pattern: 1 10 11 100 _ 1010; 0; 0; 0; 0; 101; 15 2
-LEVEL 2: missing number in the pattern: 1 3 6 _ 15; 0; 0; 0; 0; 10; 15 2
-LEVEL 2: missing number in the pattern: 2 6 12 _ 30; 0; 0; 0; 0; 20; 15 2
-LEVEL 3: missing number in the pattern: 2 3 5 8 _ 21; 0; 0; 0; 0; 13; 20 3
-LEVEL 3: missing number in the pattern: 1 1 2 6 _ 120; 0; 0; 0; 0; 24; 20 3
-LEVEL 3: missing number in the pattern: 1 10 11 100 _ 1010; 0; 0; 0; 0; 101; 20 3
-LEVEL 3: missing number in the pattern: 1 3 6 _ 15; 0; 0; 0; 0; 10; 20 3
-LEVEL 3: missing number in the pattern: 2 6 12 _ 30; 0; 0; 0; 0; 20; 20 3
-LEVEL 4: missing number in the pattern: 2 3 5 8 _ 21; 0; 0; 0; 0; 13; 30 4
-LEVEL 4: missing number in the pattern: 1 1 2 6 _ 120; 0; 0; 0; 0; 24; 30 4
-LEVEL 4: missing number in the pattern: 1 10 11 100 _ 1010; 0; 0; 0; 0; 101; 30 4
-LEVEL 4: missing number in the pattern: 1 3 6 _ 15; 0; 0; 0; 0; 10; 30 4
-LEVEL 4: missing number in the pattern: 2 6 12 _ 30; 0; 0; 0; 0; 20; 30 4
-LEVEL 5: missing number in the pattern: 2 3 5 8 _ 21; 0; 0; 0; 0; 13; 40 5
-LEVEL 5: missing number in the pattern: 1 1 2 6 _ 120; 0; 0; 0; 0; 24; 40 5
-LEVEL 5: missing number in the pattern: 1 10 11 100 _ 1010; 0; 0; 0; 0; 101; 40 5
-LEVEL 5: missing number in the pattern: 1 3 6 _ 15; 0; 0; 0; 0; 10; 40 5
-LEVEL 5: missing number in the pattern: 2 6 12 _ 30; 0; 0; 0; 0; 20; 40 5
+Find the missing number in the pattern: 2 3 5 8 _ 21; 0; 0; 0; 0; 13; 10 1 0
+Find the missing number in the pattern: 1 1 2 6 _ 120; 0; 0; 0; 0; 24; 10 1 0
+Find the missing number in the pattern: 1 10 11 100 _ 1010; 0; 0; 0; 0; 101; 10 1 0
+Find the missing number in the pattern: 1 3 6 _ 15; 0; 0; 0; 0; 10; 10 1 0
+Find the missing number in the pattern: 2 6 12 _ 30; 0; 0; 0; 0; 20; 10 1 0
+What is the sine of 90 degrees?; 0; -1; 1; Undefined; A; 12 2 1
+What is the cosine of 180 degrees?; 0; 1; -1; Undefined; C; 12 2 1
+What is the tangent of 45 degrees?; 0; 1; -1; Infinity; B; 12 2 1
+What is the cosecant of 30 degrees (use the definition csc(x) = 1/sin(x))?; 0; 1; 2; Undefined; C; 12 2 1
+What is the cotangent of 60 degrees (use the definition cot(x) = 1/tan(x))?; 0; 1; sqrt(3); 1/sqrt(3); D; 12 2 1
+What is the sine of -90 degrees?; 0; 1; -1; Undefined; C; 12 2 1
+What is the cosine of 360 degrees?; 0; 1; -1; Undefined; B; 12 2 1
+What is the tangent of 0 degrees?; 0; 1; -1; Undefined; A; 12 2 1
+What is the secant of 270 degrees (use the definition sec(x) = 1/cos(x))?; 0; 1; -1; Undefined; D; 12 2 1
+What is the sum of the interior angles of a pentagon?; 540 degrees; 720 degrees; 360 degrees; 180 degrees; A; 15 3 1
+What is the area of a circle with a radius of 7 units (use  PI = 3.14)?; 21 PI sq units; 14 PI sq units; 49 PI sq units; 28 PI sq units; C; 15 3 1
+What is the volume of a cube with side length of 4 units?; 8 cubic units; 32 cubic units; 16 cubic units; 64 cubic units; D; 15 3 1
+What is the length of the diagonal of a square with side length of 5 units?; 10 units; 5sqrt(2) units; 5 units; 25 units; B; 15 3 1
+What is the circumference of a circle with a diameter of 10 units (use  PI = 3.14)?; 20 PI units; 10 PI units; 5 PI units; 30 PI units; B; 15 3 1
+What is the area of a triangle with a base of 6 units and a height of 9 units?; 27 sq units; 54 sq units; 18 sq units; 36 sq units; A; 15 3 1
+What is the volume of a sphere with a radius of 3 units (use  PI = 3.14)?; 36 PI cubic units; 18 PI cubic units; 27 PI cubic units; 9 PI cubic units; A; 15 3 1
+What is the length of the hypotenuse of a right triangle with legs of lengths 6 units and 8 units?; 16 units; 14 units; 12 units; 10 units; D; 15 3 1
+What is the value of the expression 7+3*2?; 20; 13; 12; 10; 13; 25 4 0
+What is the value of the expression 4*(5+3)?; 32; 23; 27; 20; 32; 25 4 0
+What is the value of the expression 9-3*2+6?; 0; 3; 6; 9; 6; 25 4 0
+What is the value of the expression (8-3)*(2+2)?; 20; 16; 12; 10; 6; 25 4 0
+What is the value of the expression 6/2(1+2)?; 1; 3; 6; 9; 1; 25 4 0
+What is the value of the expression 5+12/4*3?; 14; 11; 9; 7; 11; 25 4 0
+What is the value of the expression 4*32-2?; 34; 28; 22; 16; 34; 25 4 0
+What is the value of the expression 7+6*0-5?; 2; 7; 8; 13; 7; 25 4 0
+What is the value of the expression 8/2(2+2)?; 1; 2; 4; 8; 1; 25 4 0
+What is the value of the expression 9-3(2-1)+4?; 10; 8; 6; 4; 10; 25 4 0
+What is the sum of all prime numbers between 10 and 30?; 60; 70; 80; 90; D; 30 5 1
+If a train travels 40 miles in 0.5 hours, what is its speed in miles per hour?; 60mph; 70mph; 80mph; 90mph; C; 30 5 1
+What is the value of 7 factorial (7!)?; 2520; 5040; 720; 1440; 5040; 30 5 0
+How many ways can you arrange the letters in the word 'MATHEMATICS'?; 39,916,800; 4,989,600; 1,976,640; 2,480,800; B; 30 5 1
+What is the sum of the first 50 natural numbers?; 1275; 1225; 1325; 1375; A; 30 5 1
+If a car travels at 60 mph, how far will it go in 2.5 hours?; 120 miles; 150 miles; 180 miles; 210 miles; B; 30 5 1
+What is the sum of the squares of the first 5 natural numbers?; 55; 60; 65; 70; 55; 30 5 0
+If a rectangle's length is twice its width and its area is 72, what is the length?; 6; 8; 10; 12; 12; 30 5 0
+If a sphere's volume is 36 PI cubic units, what is its radius?; 1.5 units; 2 units; 2.5 units; 3 units; C; 30 5 1

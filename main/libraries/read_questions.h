@@ -1,5 +1,5 @@
-#define STATEMENT_LENGTH 100
-#define ANSWER_LENGTH 20
+#define STATEMENT_LENGTH 200
+#define ANSWER_LENGTH 40
 
 #ifndef READ_QUESTIONS_H
 #define READ_QUESTIONS_H
@@ -9,13 +9,14 @@
 typedef struct {
     char statement[STATEMENT_LENGTH];
     char answer[ANSWER_LENGTH];
-    char choices[4][20];
+    char choices[4][40];
     int points;
     int level;
+    int multiple_choice;
 } Question;
 
 typedef struct {
-    Question questions[30];
+    Question questions[50];
 } QuestionArray;
 
 extern QuestionArray read_questions(int level, int room);
