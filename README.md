@@ -23,19 +23,4 @@ gcc -o game.exe game.c libraries/rooms.c libraries/get_line.c libraries/read_que
 
 ### **NOTE:** Use the CMD or Powershell terminals provided in VSCode to properly view text with color and formatting. The corresponding external terminals may or may not have support for the [ANSI](https://en.wikipedia.org/wiki/ANSI_escape_code) escape codes.
 
-<br/>
 <hr/>
-<br/>
-
-
-    Game by:
-
-    GEORGE JOHN OCHIERE         ENE212 – 0218/2021
-
-    LEONARD M. BOMA             ENE212 – 0085/2021
-
-    IDAH AMONDI OMONDI          ENE212 – 0095/2021
-
-    MOHAMED IBRAHIM TUKE        ENE212 – 0217/2020
-
-    NASIR JACOB IDRIS           ENE212 – 0223/2019
